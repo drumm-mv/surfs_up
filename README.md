@@ -1,7 +1,7 @@
-# surfs_up
+# Surfs_up
 
 ## Overview of the analysis:
-Provide statistical temperature data for the months of June and December in Oahu, based on the sqlight db "hawaii.sqlite"
+Provide statistical temperature data for the months of June and December in Oahu, based on the sqlite db "hawaii.sqlite".
 
 ## Resources
 - Data Source: hawaii.sqlite
@@ -106,4 +106,4 @@ Provide statistical temperature data for the months of June and December in Oahu
 ## Summary
 Based upon the statistical data it shows that the temperature for Oahu stays comparatively consistent year around.
 
-Providing two additional queries covering the precipitation of both June and December might yield statistical data supporting Oahu's temperate climate.
+Providing two additional queries covering the precipitation specific to both June and December might yield statistical data supporting Oahu's temperate climate.
