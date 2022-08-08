@@ -1,5 +1,18 @@
 # surfs_up
 
+## Overview of the analysis:
+Provide statistical temperature data for the months of June and December in Oahu, based on the sqlight db "hawaii.sqlite"
+
+## Resources
+- Data Source: hawaii.sqlite
+- Software: Python 3.7, Jupyter Notebook, 1.68.1
+
+## Results
+- There is only an 8&deg; difference (56&deg;-64&deg;F) between June and December for minimum temperature
+- There is only a 4&deg; difference (71&deg;-75&deg;F) between June and December for average/mean temperature
+- There is only a 2&deg; difference (83&deg;-85&deg;F) between June and December for maximum temperature
+
+
 ### Month of June Statistics
 
 <table border="1" class="dataframe">
@@ -90,3 +103,7 @@
   </tbody>
 </table>
 
+## Summary
+Based upon the statistical data it shows that the temperature for Oahu stays comparatively consistent year around.
+
+Providing two additional queries covering the precipitation of both June and December might yield statistical data supporting Oahu's temperate climate.
